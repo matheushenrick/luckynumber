@@ -1,0 +1,6 @@
+C:\Users\Desktop-Matheus\Documents\Visual Studio 2015\Projects\Meu Site\GeradorMegaSena\GeradorMegaSena\bin\Debug\GeradorMegaSena.exe.config
+C:\Users\Desktop-Matheus\Documents\Visual Studio 2015\Projects\Meu Site\GeradorMegaSena\GeradorMegaSena\bin\Debug\GeradorMegaSena.exe
+C:\Users\Desktop-Matheus\Documents\Visual Studio 2015\Projects\Meu Site\GeradorMegaSena\GeradorMegaSena\bin\Debug\GeradorMegaSena.pdb
+C:\Users\Desktop-Matheus\Documents\Visual Studio 2015\Projects\Meu Site\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.csprojResolveAssemblyReference.cache
+C:\Users\Desktop-Matheus\Documents\Visual Studio 2015\Projects\Meu Site\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.exe
+C:\Users\Desktop-Matheus\Documents\Visual Studio 2015\Projects\Meu Site\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.pdb
